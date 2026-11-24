@@ -1,0 +1,33 @@
+
+[
+    {
+        "imagePath": "./targets/CE-Postcard-Front.jpg",
+        "metadata": {},
+        "name": "target-image",
+        "type": "PLANAR",
+        "properties": {
+            "left": 0,
+            "top": 0,
+            "width": 480,
+            "height": 640,
+            "originalWidth": 480,
+            "originalHeight": 640,
+            "isRotated": true
+        }
+    },
+    {
+        "imagePath": "./targets/CE-Postcard-Back.jpg",
+        "metadata": {},
+        "name": "target-image2",
+        "type": "PLANAR",
+        "properties": {
+            "left": 0,
+            "top": 0,
+            "width": 480,
+            "height": 640,
+            "originalWidth": 480,
+            "originalHeight": 640,
+            "isRotated": true
+        }
+    }
+]
